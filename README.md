@@ -1,1 +1,1 @@
-It's a python console based application where users need to log in to access space-related data using the NASA API. The user credentials are stored a CSV file, and a password reset option is also available. The password are hashed for added security while storing.
+It's a python console based application where users need to log in to access space-related data using the NASA API. The user credentials are stored in a CSV file, and a password reset option is also available. The password are hashed for added security while storing.
