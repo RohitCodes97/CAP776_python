@@ -1,0 +1,33 @@
+2024-10-05 13:56:45,005 - User signed up with email: adam@gmail.com
+2024-10-05 13:57:01,886 - User logged in: adam@gmail.com
+2024-10-05 13:57:07,334 - Fetched NASA NEO data
+2024-10-05 13:57:15,461 - Failed to fetch SSD data: 400
+2024-10-05 13:57:22,751 - User logged out: adam@gmail.com
+2024-10-05 14:40:39,023 - User signed up with email: martha@gmail.com
+2024-10-05 14:41:01,567 - User logged in: martha@gmail.com
+2024-10-05 14:41:08,230 - Fetched NASA NEO data
+2024-10-05 14:41:12,475 - Failed to fetch SSD data: 400
+2024-10-05 14:43:32,438 - Failed to fetch SSD data: 400
+2024-10-05 14:47:45,482 - User signed up with email: jason@gmail.com
+2024-10-05 14:48:06,881 - User logged in: jason@gmail.com
+2024-10-05 14:48:13,974 - Fetched NASA NEO data
+2024-10-05 14:48:30,330 - Fetching SSD data for object: mars
+2024-10-05 14:48:47,630 - User logged out: jason@gmail.com
+2024-10-05 15:20:32,856 - User signed up with email: rohit@gmail.com
+2024-10-05 15:20:44,828 - User logged in: rohit@gmail.com
+2024-10-05 15:20:46,797 - Fetching NASA NEO data
+2024-10-05 15:21:51,746 - Fetching SSD data for object: halley
+2024-10-05 15:30:29,231 - Fetching NASA NEO data
+2024-10-05 15:31:23,445 - User logged in: adam@gmail.com
+2024-10-05 15:31:25,516 - Fetching NASA NEO data
+2024-10-05 15:31:28,693 - Fetched NASA NEO data successfully
+2024-10-05 15:34:18,699 - Fetching SSD data for object: 433
+2024-10-05 15:34:19,661 - No data found for the object: 433
+2024-10-05 15:34:28,474 - Fetching SSD data for object: halley
+2024-10-05 15:34:41,645 - Fetching SSD data for object: earth
+2024-10-05 15:34:47,840 - User logged out: adam@gmail.com
+2024-10-05 15:35:09,907 - Password reset for user: adam@gmail.com
+2024-10-05 16:06:56,843 - User logged out: adam@gmail.com
+2024-10-05 16:37:48,151 - Fetching NASA NEO data
+2024-10-05 16:37:50,668 - Fetched NASA NEO data successfully
+2024-10-05 16:45:10,500 - Password reset for user: jennifer@gmail.com
